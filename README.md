@@ -1,9 +1,9 @@
 ```
- __   __ _ ____  _   _ ____        ___        ___
- \ \ / /(_)  _ \| | | / ___|      / _ \      / _ \
-  \ V / | | |_) | | | \___ \ ____| | | |____| | | |
-   | |  | |  _ <| |_| |___) |____| |_| |____| |_| |
-   |_|  |_|_| \_\\___/|____/      \___/      \___/
+ __   __ _ ____  _   _ ____
+ \ \ / /(_)  _ \| | | / ___|
+  \ V / | | |_) | | | \___ \
+   | |  | |  _ <| |_| |___) |
+   |_|  |_|_| \_\\___/|____/
 ```
 
 ---
@@ -20,7 +20,7 @@ class Developer:
             "open source",
             "blockchain",
         ]
-        self.languages  = ["Python", "JavaScript", "TypeScript", "Solidity", "GDScript"]
+        self.languages  = ["Python", "JavaScript", "TypeScript", "Solidity", "GDScript", "C++", "Rust", "Bash", "HTML", "SQL"]
         self.tools      = ["Node.js", "Hardhat", "Godot", "Git"]
         self.open_source = "FOSSASIA contributor — eventyay project"
         self.achievements = ["Pull Shark x2", "Quickdraw", "Pair Extraordinaire"]
